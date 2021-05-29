@@ -1,0 +1,17 @@
+.fency-btn {
+    background-image: linear-gradient(75deg, #941278, #d853c6);
+    border: none;
+    height: 40px;
+    width: 150px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.image {
+    border-radius: 100px;
+}
+
+.margin {
+    margin-bottom: 200px;
+}
